@@ -1,2 +1,2 @@
 # MongoDB
-Supporting repo for MongoDB course at LearnDataEngineering.com
+Supporting repo for MongoDB 
